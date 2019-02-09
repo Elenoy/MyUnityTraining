@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24e997039e1242488cde2b0d1a97b41, type: 3}
+  m_Name: A11.Lunchtime
+  m_EditorClassIdentifier: 
+  StoryText: "1. It's almost lunch time and the sound of the library guard-dog's barking
+    is really starting to annoy you. A man approaches with permission from Hr. Catchpole
+    to take the Necronomicon out for study in the genealogical reading-room\r\n\r\n1.
+    Fetch him the book as instructed\r\n\r\n2. Tell him to wait half an hour and let
+    Mr. Cattermole take care of it.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 00249ec1b8cd435448ce69452cff79a0, type: 2}
+  - {fileID: 11400000, guid: 23c9e6e6f00af2b4d8f2a0d1c5107ecf, type: 2}

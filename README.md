@@ -1,2 +1,0 @@
-# MyUnityTraining
-Tasks from udemy

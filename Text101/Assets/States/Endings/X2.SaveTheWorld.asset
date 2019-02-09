@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24e997039e1242488cde2b0d1a97b41, type: 3}
+  m_Name: X2.SaveTheWorld
+  m_EditorClassIdentifier: 
+  StoryText: "1. The stranger shoots you a look of pure malevolence and you watch
+    as he lurches off out of the library looking fearful and desperate, his bodily
+    frame somehow bulging under his ever-tightening frock-coat.\nMr. Catchpole returns
+    and as you tell him about your encounter you both hear a distant explosion. It's
+    only later when you overhear Dr. Halsey and Prof. Atwood discussing the theory
+    of spontaneous human combustion that you realize that it must have been the stranger
+    who spontaneously combusted... \nThankfully, the rest of the afternoon passes
+    uneventfully. As you walk home through the pale mist, you wonder if maybe just
+    maybe - you saved the world from horrors beyond imagination on your very first
+    day as assistant librarian. Either way, Mr. Catchpole expects you back tomorrow...
+    and tomorrow's another day\n1.FINISH"
+  nextStates:
+  - {fileID: 11400000, guid: 5c0713662b7fa444e90079fa0068e557, type: 2}
+  - {fileID: 11400000}

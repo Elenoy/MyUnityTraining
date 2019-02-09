@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24e997039e1242488cde2b0d1a97b41, type: 3}
+  m_Name: A4.Telephone
+  m_EditorClassIdentifier: 
+  StoryText: "2. Professor Freelorn telephones and calls Hr. Catchpole away at short
+    notice, Leaving you in charge of the Library. He gives you the key to the occult
+    books cupboard and warns you to look after it\r\n\r\n1. Put the key safely in
+    your pocket\r\n\r\n2. Use it to unlock the occult books cupboard and see what
+    all the fuss is about \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 92e836bcf6a3557418e2ba3ce5059e0c, type: 2}
+  - {fileID: 11400000, guid: 34b96185b3f43434dab12ba99e866417, type: 2}

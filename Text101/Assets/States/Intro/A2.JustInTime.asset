@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24e997039e1242488cde2b0d1a97b41, type: 3}
+  m_Name: A2.JustInTime
+  m_EditorClassIdentifier: 
+  StoryText: "2. You arrive at the library five minutes early to find your new boss,
+    Mr. Catchpole, feeding the library's guard-dog in the vestibule. Following him
+    inside, he swiftly shows you around and tells you that on no account are you to
+    leave the front desk unattended, and then he goes on to explain the library's
+    unique filing system.\r\n\r\n1. Pay close attention and make notes.\r\n\r\n2.
+    Don't worry too much, it's your first day"
+  nextStates:
+  - {fileID: 11400000, guid: 1982cf51c80aa6b4db4bae585f596eb7, type: 2}
+  - {fileID: 11400000, guid: 655230c47337e8a489a646b17e7fd107, type: 2}
